@@ -3,8 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/ghprofile-collection/",
-    "build:vercel": "vite build"
+    "build": "vite build"
   },
   "dependencies": {
     "vue": "^3.0.0-rc.5"
